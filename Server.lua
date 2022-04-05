@@ -54,14 +54,3 @@ ESX.RegisterUsableItem('outfit_galaxy_orange', function(source) TriggerClientEve
 ESX.RegisterUsableItem('outfit_galaxy_yellow', function(source) TriggerClientEvent('seln:neon', source,  15) end)
 ESX.RegisterUsableItem('outfit_jail', function(source) TriggerClientEvent('seln:jail', source) end)
 ESX.RegisterUsableItem('outfit_farmer', function(source) TriggerClientEvent('seln:farmer', source) end)
-
-
-
-
-
-
-
-
-
-
-
